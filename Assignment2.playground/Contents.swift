@@ -4,6 +4,7 @@
 //Spring 2025
 //Assignment 1
 
+
 import Foundation
 
 func Payment(loanAmount: Int, numberOfPayments: Int, interestRate: Float) -> Float {
